@@ -1,4 +1,4 @@
-# Test_Komtek_v_2
+# REST API 
 # API with only GET HTTP method
 Получение списка справочников Метод GET url api/directory/all/
 ##### 
